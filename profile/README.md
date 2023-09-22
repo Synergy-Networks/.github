@@ -4,9 +4,9 @@
 
   ## Table of Contents
 
-  - [About Synergy Networks](#about-synergy-networks)
-  - [Features](#features)
-  - [Contact Us](#contact-us)
+[About Synergy Networks](#about-synergy-networks)
+[Features](#features)
+[Contact Us](#contact-us)
 
   ## About Synergy Networks
 
