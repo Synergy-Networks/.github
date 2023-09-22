@@ -2,12 +2,6 @@
   <h1>Synergy Networks</h1>
   <p>Welcome to Synergy Networks! We are a dedicated organization focused on creating high-quality ROBLOX products without any associated costs. Our aim is to deliver exceptional experiences and contribute to the ROBLOX community.</p>
 
-  ## Table of Contents
-
-[About Synergy Networks](#about-synergy-networks)
-[Features](#features)
-[Contact Us](#contact-us)
-
   ## About Synergy Networks
 
   <p>Synergy Networks is committed to providing you and everyone else with the best possible experiences. We uphold the highest standards of creativity, quality, and innovation in all our projects.</p>
