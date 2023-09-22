@@ -1,6 +1,10 @@
-# Synergy Networks
+<p align="center">
+  <img alt="Synergy Networks Logo" src="logo.png" width="200">
+</p>
 
-Welcome to Synergy Networks! Synergy Networks is a organisation ran by a individual, dedicated to creating high-quality ROBLOX products without any associated costs. Our goal is to deliver exceptional experiences and contribute to the ROBLOX community.
+<h1 align="center">Synergy Networks</h1>
+
+<p align="center">Welcome to Synergy Networks! We are a dedicated organization focused on creating high-quality ROBLOX products without any associated costs. Our aim is to deliver exceptional experiences and contribute to the ROBLOX community.</p>
 
 ## Table of Contents
 
@@ -10,22 +14,21 @@ Welcome to Synergy Networks! Synergy Networks is a organisation ran by a individ
 
 ## About Synergy Networks
 
-Synergy Networks ensures you to have the best experiences to you and everyone else. We strive to maintain the highest standards of creativity, quality, and innovation in all our projects. 
+<p align="center">Synergy Networks is committed to providing you and everyone else with the best possible experiences. We uphold the highest standards of creativity, quality, and innovation in all our projects.</p>
 
 ## Features
 
-- **High quality products**: All of our products are maintained well in a good condition. You can ensure our products give you the best possible experiences on them.
+- **High-Quality Products**: All our products are meticulously maintained to provide you with the best experiences possible.
 
-- **Passion-Driven Development**: Motivated by the wonders of scripting, Synergy Networks is always excited to introduce something new.
+- **Passion-Driven Development**: Driven by the wonders of scripting, Synergy Networks is always excited to introduce something new.
 
 - **FREE**: We believe in making our creations accessible to everyone without any financial barriers. All our products are available for free.
 
-
 ## Contact Us
 
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:
+<p align="center">If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:</p>
 
-- Email: synergy@1l.gg
-- Discord: [Join our Discord server](https://discord.gg/yGhNCtQqK2)
-
-
+<p align="center">
+  Email: synergy@1l.gg<br>
+  Discord: <a href="https://discord.gg/yGhNCtQqK2">Join our Discord server</a>
+</p>
