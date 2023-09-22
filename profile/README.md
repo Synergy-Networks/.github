@@ -1,34 +1,32 @@
-<p align="center">
+<div align="center">
   <img alt="Synergy Networks Logo" src="logo.png" width="200">
-</p>
+  <h1>Synergy Networks</h1>
+  <p>Welcome to Synergy Networks! We are a dedicated organization focused on creating high-quality ROBLOX products without any associated costs. Our aim is to deliver exceptional experiences and contribute to the ROBLOX community.</p>
 
-<h1 align="center">Synergy Networks</h1>
+  ## Table of Contents
 
-<p align="center">Welcome to Synergy Networks! We are a dedicated organization focused on creating high-quality ROBLOX products without any associated costs. Our aim is to deliver exceptional experiences and contribute to the ROBLOX community.</p>
+  - [About Synergy Networks](#about-synergy-networks)
+  - [Features](#features)
+  - [Contact Us](#contact-us)
 
-## Table of Contents
+  ## About Synergy Networks
 
-- [About Synergy Networks](#about-synergy-networks)
-- [Features](#features)
-- [Contact Us](#contact-us)
+  <p>Synergy Networks is committed to providing you and everyone else with the best possible experiences. We uphold the highest standards of creativity, quality, and innovation in all our projects.</p>
 
-## About Synergy Networks
+  ## Features
 
-<p align="center">Synergy Networks is committed to providing you and everyone else with the best possible experiences. We uphold the highest standards of creativity, quality, and innovation in all our projects.</p>
+  - <strong>High-Quality Products</strong>: All our products are meticulously maintained to provide you with the best experiences possible.
 
-## Features
+  - <strong>Passion-Driven Development</strong>: Driven by the wonders of scripting, Synergy Networks is always excited to introduce something new.
 
-- **High-Quality Products**: All our products are meticulously maintained to provide you with the best experiences possible.
+  - <strong>FREE</strong>: We believe in making our creations accessible to everyone without any financial barriers. All our products are available for free.
 
-- **Passion-Driven Development**: Driven by the wonders of scripting, Synergy Networks is always excited to introduce something new.
+  ## Contact Us
 
-- **FREE**: We believe in making our creations accessible to everyone without any financial barriers. All our products are available for free.
+  <p>If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:</p>
 
-## Contact Us
-
-<p align="center">If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:</p>
-
-<p align="center">
-  Email: synergy@1l.gg<br>
-  Discord: <a href="https://discord.gg/yGhNCtQqK2">Join our Discord server</a>
-</p>
+  <p>
+    Email: synergy@1l.gg<br>
+    Discord: <a href="https://discord.gg/yGhNCtQqK2">Join our Discord server</a>
+  </p>
+</div>
