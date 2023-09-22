@@ -1,5 +1,4 @@
 <div align="center">
-  <img alt="Synergy Networks Logo" src="logo.png" width="200">
   <h1>Synergy Networks</h1>
   <p>Welcome to Synergy Networks! We are a dedicated organization focused on creating high-quality ROBLOX products without any associated costs. Our aim is to deliver exceptional experiences and contribute to the ROBLOX community.</p>
 
