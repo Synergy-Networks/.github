@@ -9,7 +9,5 @@
   <p>
     Email: synergy@1l.gg<br>
     Discord: <a href="https://discord.gg/yGhNCtQqK2">Join our Discord server</a>
-    Official Website: <a href="https://discord.gg/yGhNCtQqK2">Click here</a>
-
   </p>
 </div>
