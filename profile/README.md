@@ -7,7 +7,6 @@
   <p>If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:</p>
 
   <p>
-    Email: synergy@1l.gg<br>
     Discord: <a href="https://discord.gg/yGhNCtQqK2">Join our Discord server</a>
   </p>
 </div>
